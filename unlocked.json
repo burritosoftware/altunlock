@@ -171,7 +171,7 @@
     {
       "title": "You're unlocked.",
       "identifier": "delta-ds-support",
-      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
+      "caption": ":D",
       "tintColor": "8A28F7",
       "imageURL": "https://altunlock.burrito.software/happy.png",
       "date": "2019-09-25",
@@ -190,7 +190,7 @@
     {
       "title": "Welcome to AltUnlock",
       "identifier": "welcome-to-altstore",
-      "caption": "altunlock.burrito.software\nOperations left: 811\nLast updated: 04-22-2021 04:31 PM",
+      "caption": "altunlock.burrito.software\nOperations left: 799\nLast updated: 04-22-2021 04:31 PM",
       "tintColor": "018084",
       "url": "https://altunlock.burrito.software/",
       "date": "2019-09-28",
